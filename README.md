@@ -1,3 +1,5 @@
+This is an old project reuploaded.
+
 # Catalist
 
 Android app for browsing cat breeds, built with Jetpack Compose. Data comes from [TheCatAPI](https://thecatapi.com/).
